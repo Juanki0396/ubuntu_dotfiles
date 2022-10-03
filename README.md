@@ -1,4 +1,4 @@
-#Personal config files
+# Personal config files
 
 This repo is just a version control of my selected config files.
 
