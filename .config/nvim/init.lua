@@ -1,0 +1,8 @@
+require('vimsettings')
+require('keybindings')
+require('pluginmanager')
+require('nvimtreesetup')
+require('treesitterconfig')
+require('statusbar')
+require('colortheme')
+require('lspsettings')
